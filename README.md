@@ -28,11 +28,17 @@ Recommended tools for local Python development and working with Jupyter notebook
 
 ## 📚 Installation Guides
 
-- **PyCharm + Jupyter Notebook**
-  - [`Installing-Pycharm.md`](https://github.com/AISIC-Lab/Data-Science/blob/main/Installing-Pycharm.md)
+### PyCharm + Jupyter Notebook
 
-  **Portuguese Version**
-  - [`Installing-Pycharm-pt.md`](https://github.com/AISIC-Lab/Data-Science/blob/main/Installing-Pycharm-pt.md)
+Step-by-step guide for configuring **PyCharm Professional** and working with **Jupyter Notebooks**:
+
+[![PyCharm Installation Guide](https://img.shields.io/badge/PyCharm-Installation_Guide-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Installing-Pycharm.md)
+
+### 🇵🇹 Portuguese Version
+
+Guia de instalação e configuração em português:
+
+[![Guia de Instalação](https://img.shields.io/badge/PyCharm-Guia_de_Instalação-0078D4?style=for-the-badge&logo=pycharm&logoColor=white)](https://github.com/AISIC-Lab/Data-Science/blob/main/Installing-Pycharm-pt.md)
 
 ---
 
