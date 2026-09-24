@@ -36,6 +36,14 @@ Recommended tools for local Python development and working with Jupyter notebook
 
 ---
 
+## 📅 Course Schedule
+
+The complete course schedule, including the weekly topics and planned activities, is available here:
+
+[![Course Schedule](https://img.shields.io/badge/Course_Schedule-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Programming-AI/blob/main/rsc/Schedule.md)
+
+---
+
 ## 📆 Week 1
 
 ### 🧩 Student Version
