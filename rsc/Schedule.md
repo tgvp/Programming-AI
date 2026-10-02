@@ -8,7 +8,7 @@ The sequence starts with Python and numerical computation, moves through data pr
 
 | Week | Main topic | Practical milestone |
 | --- | --- | --- |
-| 1 | Python environment, NumPy, and vectorised computation | NumPy foundations |
+| 1 | Python environment, NumPy, and vectorised computation | Python and NumPy foundations |
 | 2 | Pandas: DataFrames, selection, transformation, and data types | Explore a real dataset |
 | 3 | Data preparation: missing values, categorical data, scaling, and features | Mini-project 1: Data Pipeline · Quiz 1 |
 | 4 | Scikit-learn pipelines: `Pipeline`, `ColumnTransformer`, and estimators | Build a reproducible pipeline |
